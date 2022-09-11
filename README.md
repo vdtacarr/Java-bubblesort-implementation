@@ -1,3 +1,3 @@
-# Java-bubblesort-implementation
+# Java-standart-normalization(N = (X_i-X_min)/(X_max-X-min))
 
-Bubblesort algorithm using ArrayList and my own class and method
+Java arraynormalization using bubblesort and random module.
