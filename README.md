@@ -1,3 +1,3 @@
-# Java-standart-normalization(N = (X_i-X_min)/(X_max-X-min))
-
-Java arraynormalization using bubblesort and random module.
+# Java-standart-normalization
+N = (X_i-X_min)/(X_max-X-min)
+Java array normalization using bubblesort and random module.
